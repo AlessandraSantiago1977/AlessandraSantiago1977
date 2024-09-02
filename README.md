@@ -4,7 +4,7 @@
   
 - 👀 Estou interessada em aprender os códigos que podemos criar aqui.
 
-- 🌱 Atualmente estou fazendo cursos sobre Programação, Inteligência Artificial,Internet e Bootcamps.
+- 🌱 Atualmente estou fazendo cursos sobre Programação, Inteligência Artificial, Internet e Bootcamps.
 
 - 💞️ Quero colaborar com todos que estão aqui, e também aprender com todos vocês.
 
