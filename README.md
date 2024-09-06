@@ -2,9 +2,9 @@
 
 👋 Meu chamo Alessandra
 
-🌱 Atualmente estou fazendo cursos sobre Programação, Inteligência Artificial e Internet
+🌱 Atualmente estou fazendo cursos sobre Programação, Inteligência Artificial, Internet e fazendo alguns Bootcamps.
 
-👀 Estou interessado em aprender os códigos que podemos criar aqui
+👀 Estou interessado em aprender os códigos que podemos criar aqui.
 
 💞️ Quero colaborar com todos que estão aqui, e também aprender com vocês.
 
